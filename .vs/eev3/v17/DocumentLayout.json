@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|f:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\stringtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\stringtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\neturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\neturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\jsontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\jsontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\controll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\controll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\htmltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281F4EB8-DC73-463C-B0CA-163CF8D5CAC4}|eev3\\eev3.csproj|solutionrelative:eev3\\htmltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlTool.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\HtmlTool.cs",
+              "RelativeDocumentMoniker": "eev3\\HtmlTool.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\HtmlTool.cs",
+              "RelativeToolTip": "eev3\\HtmlTool.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwGkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:06:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controll.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\Controll.cs",
+              "RelativeDocumentMoniker": "eev3\\Controll.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\Controll.cs",
+              "RelativeToolTip": "eev3\\Controll.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAIsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:34:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringTool.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\StringTool.cs",
+              "RelativeDocumentMoniker": "eev3\\StringTool.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\StringTool.cs",
+              "RelativeToolTip": "eev3\\StringTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:07:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetUrl.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\NetUrl.cs",
+              "RelativeDocumentMoniker": "eev3\\NetUrl.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\NetUrl.cs",
+              "RelativeToolTip": "eev3\\NetUrl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwDIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:29:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonTool.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\JsonTool.cs",
+              "RelativeDocumentMoniker": "eev3\\JsonTool.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\JsonTool.cs",
+              "RelativeToolTip": "eev3\\JsonTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:15:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\Program.cs",
+              "RelativeDocumentMoniker": "eev3\\Program.cs",
+              "ToolTip": "F:\\\u5176\u4ED6\u9879\u76EE\\eev3\\eev3\\eev3\\Program.cs",
+              "RelativeToolTip": "eev3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:33:35.109Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

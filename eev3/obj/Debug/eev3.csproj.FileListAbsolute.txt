@@ -1,0 +1,10 @@
+F:\其他项目\eev3\eev3\eev3\bin\Debug\eev3.exe.config
+F:\其他项目\eev3\eev3\eev3\bin\Debug\eev3.exe
+F:\其他项目\eev3\eev3\eev3\bin\Debug\eev3.pdb
+F:\其他项目\eev3\eev3\eev3\obj\Debug\eev3.csproj.AssemblyReference.cache
+F:\其他项目\eev3\eev3\eev3\obj\Debug\eev3.csproj.CoreCompileInputs.cache
+F:\其他项目\eev3\eev3\eev3\obj\Debug\eev3.csproj.Up2Date
+F:\其他项目\eev3\eev3\eev3\obj\Debug\eev3.exe
+F:\其他项目\eev3\eev3\eev3\obj\Debug\eev3.pdb
+F:\其他项目\eev3\eev3\eev3\bin\Debug\HtmlAgilityPack.dll
+F:\其他项目\eev3\eev3\eev3\bin\Debug\Newtonsoft.Json.dll
